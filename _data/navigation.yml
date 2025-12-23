@@ -17,6 +17,9 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
+  - title: "Social Activities"  
+    url: /activities/   
+    
   - title: "Portfolio"
     url: /portfolio/
         
