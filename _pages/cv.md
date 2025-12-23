@@ -9,56 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+You can download a PDF copy of my CV [here](/files/cv.pdf).
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
+* **Zhejiang University**, Hangzhou, China (2023 - Present)
+  * B.Eng. in Optoelectronic Information Science and Engineering
+  * *Chu Kochen Honors College*
+  * **GPA:** 4.60/5.00
+  * **English:** TOEFL 103 (R:27, L:27, S:25, W:24)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Research Experience
+**Quantum Light Sources based on Gold Nanowires** (Apr 2025 - Present)
+* Advisor: Prof. Haoliang Qian
+* Utilized **NEGF** and **Python** to simulate 1D nanowire device models.
+* Analyzed IETS tunneling processes using **SCBA** approximation.
+* Validated single-electron transport via Fano factor calculations.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Modular Fluorescence Microscope Design** (Sep 2024 - Sep 2025)
+* Advisor: Prof. Yubing Han
+* Built a customizable microscope using modular blocks (Lego framework).
+* Optimized optical paths using **Zemax** simulations.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Honors & Awards
+* **2024:** National Scholarship (Top 0.2%)
+* **2024:** OPPO "Benfen" Scholarship (8 students/year)
+* **2024:** Top Ten Undergraduates, School of Optoelectronics
+* **2024:** First Prize, Zhejiang Provincial College Physics Competition
+* **2022:** First Prize, Hunan Provincial High School Physics Olympiad
+
+## Skills
+* **Programming:** Python, PyTorch, C/C++
+* **Simulation:** NEGF, Wannier90, Zemax, SolidWorks, Altium
