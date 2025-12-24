@@ -18,8 +18,9 @@ I am currently looking for PhD opportunities starting in **Fall 2027**.
 * **Zhejiang University** (2023 - Present)
   * B.Eng. in Optoelectronic Information Science and Engineering
   * **GPA:** 4.60/5.00 | **Rank:** 4/162 (CKC Honors College)
-  * **Awards:** National Scholarship (Top 0.2%), First-Class Scholarship of ZJU
+  * **Awards:** National Scholarship (Top 0.2%), First-Class Scholarship of ZJU, OPPO "benfen" Scholarship(8 students per year)
 
 ## News
+* **Nov 2025:** I was honored as one of the **Top Ten College Students** at the School of Optoelectrics.
 * **Dec 2024:** I received the **National Scholarship** from the Ministry of Education of China!
 * **Oct 2024:** My team won the **First Prize** in the Zhejiang Provincial College Physics Competition.
